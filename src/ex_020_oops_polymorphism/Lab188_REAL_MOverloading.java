@@ -1,4 +1,4 @@
-package ex_020_polymorphism;
+package ex_020_oops_polymorphism;
 
 public class Lab188_REAL_MOverloading {
     public static void main(String[] args) {

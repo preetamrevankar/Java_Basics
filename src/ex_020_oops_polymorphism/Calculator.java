@@ -1,4 +1,4 @@
-package ex_020_polymorphism;
+package ex_020_oops_polymorphism;
 
 public class Calculator {
     public static void main(String[] args) {
