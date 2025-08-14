@@ -9,7 +9,7 @@ public class Lab220_Handle_exception {
         try {
             a=10/0 ;
         } catch (Exception e) {
-            System.out.println("Div by zero is not allowed");
+            System.out.println("Division by zero is not allowed");
         }
 
         System.out.println(a);
