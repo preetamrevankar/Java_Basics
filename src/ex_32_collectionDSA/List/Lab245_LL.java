@@ -24,5 +24,6 @@ public class Lab245_LL {
         System.out.println("LinkedList after removal: " + animals);
 
         System.out.println("Size of LinkedList: " + animals.size());
+        System.out.println("Size of LinkedList: " + animals.size());
     }
 }
