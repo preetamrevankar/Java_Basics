@@ -21,9 +21,9 @@ public class Lab245_LL {
         // Removing elements
         animals.removeFirst();
         animals.removeLast();
-        System.out.println("LinkedList after removal: " + animals);
+        System.out.println("LinkedList after removal: " +animals);
 
         System.out.println("Size of LinkedList: " + animals.size());
-        System.out.println("Size of LinkedList: " + animals.size());
+
     }
 }
