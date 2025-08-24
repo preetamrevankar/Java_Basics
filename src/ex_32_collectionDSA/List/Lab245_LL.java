@@ -14,7 +14,7 @@ public class Lab245_LL {
         System.out.println("linkedlist:" + animals);
 
         // Accessing elements
-        System.out.println("First element: " + animals.getFirst());
+        System.out.println("First elements: " + animals.getFirst());
         System.out.println("Last element: " + animals.getLast());
 
 
